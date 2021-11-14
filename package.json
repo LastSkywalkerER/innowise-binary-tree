@@ -1,0 +1,23 @@
+{
+  "name": "innowise-binary-tree",
+  "version": "1.0.0",
+  "description": "my realisation of binary-tree in js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LastSkywalkerER/innowise-binary-tree.git"
+  },
+  "keywords": [
+    "js",
+    "binary-tree"
+  ],
+  "author": "Maxim Drozd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LastSkywalkerER/innowise-binary-tree/issues"
+  },
+  "homepage": "https://github.com/LastSkywalkerER/innowise-binary-tree#readme"
+}
